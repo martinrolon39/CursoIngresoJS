@@ -11,11 +11,10 @@ function mostrar()
 	//var nombre = 1; // number 
 	//var nombre = true; // boolean 
 	//ver nombre = null; // null
-var dato;
-
-dato = prompt ("ingrese un dato");
-
-alert (dato);
+    var dato;
+    dato = prompt("ingrese un nombre");
+    alert(dato);
+    
 
 
 }

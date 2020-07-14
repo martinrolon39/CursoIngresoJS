@@ -5,7 +5,7 @@ function mostrar()
 {
 	var dato;
 	dato = txtIdNombre.value;
-	alert(dato)
+	alert(dato);
 
 
 }
